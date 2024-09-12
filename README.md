@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kushalkumarj2006
+- 👀 I’m interested in Coding and MMA
+- 🌱 I’m currently learning
+- 📫 How to reach me : kushalkumarjss+github@gmail.com
+- ⚡ Fun fact: I am legend
