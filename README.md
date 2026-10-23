@@ -195,7 +195,11 @@ A client-side password auditor with real breach detection against 100,000 leaked
   <br/><br/>
   <img src="https://ghchart.rshah.org/00F5FF/kushalkumarj2006" alt="Contribution Graph" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/kushalkumarj2006/kushalkumarj2006/output/github-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushalkumarj2006/kushalkumarj2006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushalkumarj2006/kushalkumarj2006/output/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/kushalkumarj2006/kushalkumarj2006/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
