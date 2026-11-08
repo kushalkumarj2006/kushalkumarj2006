@@ -1,0 +1,41 @@
+name: Render README stats
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'        # ≤15 min lag for pushes to OTHER repos
+  push:
+    branches: [main]              # instant on profile-repo edits
+    paths:
+      - 'worker.js'
+      - 'scripts/generate.js'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-stats
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - name: Generate SVGs
+        run: node scripts/generate.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to stats branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
