@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="155" viewBox="0 0 495 155"><rect x=".5" y=".5" width="494" height="154" rx="6" fill="#0D0221" stroke="#FF00E5"/><text x="247" y="40" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#00F5FF">kushalkumarj2006's Streak</text>
+     <g font-family="system-ui,sans-serif">
+       <text x="120" y="98" font-size="26" font-weight="700" fill="#FF00E5" text-anchor="middle">0</text>
+       <text x="120" y="120" font-size="11" fill="#B0B0D0" text-anchor="middle">CURRENT</text>
+       
+       <g transform="translate(247, 85)">
+         <circle cx="0" cy="0" r="24" fill="none" stroke="#FF00E5" stroke-opacity=".2" stroke-width="6" stroke-dasharray="113.09733552923255 150.79644737231007"/>
+         <circle cx="0" cy="0" r="24" fill="none" stroke="#FF00E5" stroke-width="6" stroke-linecap="round" stroke-dasharray="150.79644737231007" stroke-dashoffset="150.79644737231007" transform="rotate(135)"/>
+         <text x="0" y="6" font-size="16" font-weight="700" fill="#00F5FF" text-anchor="middle">🔥</text>
+       </g>
+
+       <text x="374" y="98" font-size="26" font-weight="700" fill="#FFE600" text-anchor="middle">3</text>
+       <text x="374" y="120" font-size="11" fill="#B0B0D0" text-anchor="middle">LONGEST</text>
+     </g>
+     <text x="247" y="140" font-size="12" fill="#B0B0D0" text-anchor="middle">Total Contributions: <tspan fill="#E0E0FF">422</tspan></text></svg>

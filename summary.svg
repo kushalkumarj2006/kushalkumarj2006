@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195"><rect x=".5" y=".5" width="494" height="194" rx="6" fill="#0D0221" stroke="#FF00E5"/><text x="25" y="36" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="#00F5FF">kushalkumarj2006 · Summary</text>
+     <g font-family="system-ui,sans-serif" font-size="14" fill="#E0E0FF">
+       <text x="25" y="72">📅  Contributions</text><text x="240" y="72" text-anchor="end" fill="#00F5FF">422</text>
+       <text x="25" y="96">🗓  Active days</text><text x="240" y="96" text-anchor="end" fill="#00F5FF">38</text>
+       <text x="25" y="120">📦  Repositories</text><text x="240" y="120" text-anchor="end" fill="#00F5FF">73</text>
+       <text x="25" y="144">👥  Followers</text><text x="240" y="144" text-anchor="end" fill="#00F5FF">33</text>
+     </g>
+     <line x1="260" y1="55" x2="260" y2="155" stroke="#FF00E5" stroke-opacity=".3"/>
+     <text x="280" y="72" font-family="system-ui,sans-serif" font-size="12" fill="#B0B0D0">Top Languages</text>
+     <rect x="280" y="90" width="60.35114768139414" height="12" fill="#f1e05a"/><rect x="340.35114768139414" y="90" width="56.65271192665029" height="12" fill="#e34c26"/><rect x="397.0038596080444" y="90" width="39.80390399677839" height="12" fill="#3178c6"/><rect x="436.8077636048228" y="90" width="33.19223639517718" height="12" fill="#A97BFF"/>
+     <circle cx="290" cy="125" r="5" fill="#f1e05a"/>
+     <text x="305" y="129" font-family="system-ui,sans-serif" font-size="12" fill="#E0E0FF">JavaScript</text>
+     <text x="470" y="129" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#B0B0D0">31.8%</text><circle cx="290" cy="143" r="5" fill="#e34c26"/>
+     <text x="305" y="147" font-family="system-ui,sans-serif" font-size="12" fill="#E0E0FF">HTML</text>
+     <text x="470" y="147" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#B0B0D0">29.8%</text><circle cx="290" cy="161" r="5" fill="#3178c6"/>
+     <text x="305" y="165" font-family="system-ui,sans-serif" font-size="12" fill="#E0E0FF">TypeScript</text>
+     <text x="470" y="165" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#B0B0D0">20.9%</text><circle cx="290" cy="179" r="5" fill="#A97BFF"/>
+     <text x="305" y="183" font-family="system-ui,sans-serif" font-size="12" fill="#E0E0FF">Kotlin</text>
+     <text x="470" y="183" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#B0B0D0">17.5%</text></svg>

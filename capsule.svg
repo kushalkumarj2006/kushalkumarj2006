@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140"><defs>
+       <linearGradient id="g" x1="0" x2="1">
+         <stop offset="0" stop-color="#FF00E5"/>
+         <stop offset="1" stop-color="#00F5FF"/>
+       </linearGradient>
+     </defs>
+     <path fill="url(#g)">
+       <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,56 C300,119 600,14 1200,63 L1200,140 L0,140 Z;M0,56 C300,98 600,35 1200,63 L1200,140 L0,140 Z;M0,56 C300,119 600,14 1200,63 L1200,140 L0,140 Z"/>
+     </path>
+     <text x="600" y="70" text-anchor="middle" font-family="system-ui,sans-serif" font-size="40" font-weight="700" fill="#FFFFFF" dominant-baseline="middle">Kushal Kumar J</text></svg>
