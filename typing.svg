@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="106" viewBox="0 0 620 106"><text x="10" y="30" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="600" fill="#00F5FF" clip-path="url(#clip0)">Full Stack Developer</text>
+        <clipPath id="clip0">
+          <rect x="10" y="8" width="0" height="30.799999999999997">
+            <animate attributeName="width" values="0;264;264;0" keyTimes="0;0.4;0.9;1" dur="4s" begin="0s" repeatCount="indefinite"/>
+          </rect>
+        </clipPath><text x="10" y="60" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="600" fill="#00F5FF" clip-path="url(#clip1)">AI Tooling Builder</text>
+        <clipPath id="clip1">
+          <rect x="10" y="38" width="0" height="30.799999999999997">
+            <animate attributeName="width" values="0;237.6;237.6;0" keyTimes="0;0.4;0.9;1" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+          </rect>
+        </clipPath><text x="10" y="90" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="600" fill="#00F5FF" clip-path="url(#clip2)">Android &amp; Social-Impact Tech</text>
+        <clipPath id="clip2">
+          <rect x="10" y="68" width="0" height="30.799999999999997">
+            <animate attributeName="width" values="0;369.59999999999997;369.59999999999997;0" keyTimes="0;0.4;0.9;1" dur="4s" begin="1.6s" repeatCount="indefinite"/>
+          </rect>
+        </clipPath>
+     <rect x="379.59999999999997" y="4" width="2" height="28.6" fill="#00F5FF">
+       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.55;1" dur="1s" repeatCount="indefinite"/>
+     </rect></svg>
